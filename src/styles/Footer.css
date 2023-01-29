@@ -1,0 +1,45 @@
+.footer {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  position: fixed;
+  left: 250px;
+  width: calc(100% - 250px);
+  bottom: 0;
+
+}
+
+.footer .col {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.footer .p-slider {
+  background-color: #264a6e;
+}
+
+.footer .p-slider-handle {
+  background-color: #264a6e;
+  height: 2rem;
+  width: 2rem;
+}
+
+.footer .p-slider.p-slider-horizontal {
+  height: 0.6rem;
+}
+
+.footer .p-slider-horizontal .p-slider-handle {
+  top: -20%;
+}
+
+.footer .bottom > .row div:last-child {
+  text-align: right;
+}
+
+.footer .bottom .row .col:last-child {
+  text-align: right;
+}
+
+.footer .bottom div:last-child > div span:last-child{
+  float: right;
+}

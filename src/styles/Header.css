@@ -1,0 +1,24 @@
+.header {
+  background-color: #264A6E;
+  color: #fff;
+  position: fixed;
+  left: 250px;
+  width: calc(100% - 250px);
+
+}
+
+.header .col{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.btn {
+
+  background-color: #f74a53;
+  border-radius: 10px;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 15px;
+  width: 150px;
+  cursor: pointer;
+}

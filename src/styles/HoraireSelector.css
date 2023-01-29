@@ -1,0 +1,39 @@
+.p-slider {
+    background-color: #cac4c4;
+}
+
+.p-slider .p-slider-range {
+    background: #264a6e;
+}
+
+.horaires .p-slider.p-slider-horizontal {
+    height: 1.2rem;
+}
+
+.p-slider-handle.p-slider-handle-start, .p-slider-handle.p-slider-handle-end {
+    background-color: #CAC4C4;
+}
+
+.p-slider .p-slider-handle {
+    border-color: #fff;
+}
+
+.horaires .container .row .col:last-child {
+    text-align: right;
+}
+
+.horaires .container{
+    margin-left: 0;
+  }
+
+.horaire {
+    font-size: 0.8rem;
+    color: rgb(180, 180, 180);
+    border: 1px solid rgb(182, 182, 182);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 3px;
+}
+
